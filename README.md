@@ -11,7 +11,10 @@ This project has been used to automate many tasks and has been tested on many pl
 Granted, I have never tested against italicized fonts, this should work on many basic android fonts that even 
 your grandparents can read.
 
-I will add an example script and update this repo in the upcoming days.
+Update: added "movie_star_planet.py" as a test script and uploaded a requirements.txt
+Please feel free to drop comments and potential changes I can consider in the issues tab. I will 
+engage with this project when able, which means I will attempt to maintain it. The base project doesnt
+need much changes, so enjoy and happy coding!
 
 
 Downloads:
